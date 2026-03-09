@@ -58,7 +58,7 @@ export default function Login() {
         <div className="login-panel-texto">
           <div className="login-logo-wrap">
             <div className="login-logo-icon">B</div>
-            <span className="login-logo-text">Biblioteca Web</span>
+            <span className="login-logo-text">Biblioteca Web xdxd</span>
           </div>
           <h2 className="login-panel-titulo">El conocimiento comienza aquí</h2>
           <p className="login-panel-sub">

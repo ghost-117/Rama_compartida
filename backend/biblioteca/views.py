@@ -48,7 +48,7 @@ class LoginView(APIView):
         return Response(serializer.errors, status=400)
 
 
-# Sin verificación de token por ahora
+# Sin verificación de token por ahora xdxd
 class LibrosView(APIView):
     permission_classes = [AllowAny]
 
